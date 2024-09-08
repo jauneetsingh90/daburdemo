@@ -1,1 +1,2 @@
-
+ragstack-ai
+pypdf2
